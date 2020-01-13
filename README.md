@@ -7,4 +7,5 @@ Android game made in MIT APP INVENTOR
 <br><li> No more annoying ADs :) while enjoying.</li>
   </ul>
   
+![](https://github.com/shubhammitt/Catch-them-All/blob/master/Screenshot_2020-01-13-22-32-49-59.png)
 #### Made by Shubham Mittal and Sanchit Trivedi
