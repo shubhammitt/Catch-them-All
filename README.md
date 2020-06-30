@@ -6,5 +6,5 @@ Android game made in MIT APP INVENTOR
 <br><li> Light game.</li>
 <br><li> No more annoying ADs :) while enjoying.</li>
   </ul>
-  
+ <img src="https://github.com/shubhammitt/Catch-them-All/blob/master/Screenshot_2020-01-13-22-32-49-59.png" width="400" height="800" /> 
 #### Made by Shubham Mittal and Sanchit Trivedi
